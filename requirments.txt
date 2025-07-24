@@ -9,3 +9,5 @@ langchain_community
 langchain_openai
 langchain_experimental
 -e .
+ipywidgets>=8.1.1      # For tqdm progress bars in notebooks
+tqdm>=4.66.1
